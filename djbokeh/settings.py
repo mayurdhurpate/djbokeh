@@ -25,7 +25,7 @@ SECRET_KEY = 'bh(w4^&0u!%4s@x9)xf_)#&y1@%ntd485h31ink#ocf)vm$#w4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['djbokeh.herokuapp.com']
 
 
 # Application definition
