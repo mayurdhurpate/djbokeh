@@ -1,0 +1,1 @@
+web: gunicorn djbokeh.wsgi --log-file -
