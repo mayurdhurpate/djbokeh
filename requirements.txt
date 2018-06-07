@@ -1,13 +1,17 @@
 bokeh==0.12.16
+dj-database-url==0.5.0
 Django==2.0.6
+django-heroku==0.3.1
 gunicorn==19.8.1
 Jinja2==2.10
 MarkupSafe==1.0
 numpy==1.14.3
 packaging==17.1
+psycopg2==2.7.4
 pyparsing==2.2.0
 python-dateutil==2.7.3
 pytz==2018.4
 PyYAML==3.12
 six==1.11.0
 tornado==5.0.2
+whitenoise==3.3.1
